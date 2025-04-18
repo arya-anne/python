@@ -1,0 +1,4 @@
+library DeepXDE
+сравнение с:
+Tensorflow, torch(рекомендовано), jax?
+google colab чтобы использовать графический процессор
